@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2155E3FD1B559E3A00BCE403 /* Gameboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2155E3FC1B559E3A00BCE403 /* Gameboard.storyboard */; };
+		2155E4021B55A28100BCE403 /* GameboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2155E4011B55A28100BCE403 /* GameboardVC.swift */; };
 		21C4E65D1B5554EA00524022 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4E65C1B5554EA00524022 /* AppDelegate.swift */; };
 		21C4E65F1B5554EA00524022 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4E65E1B5554EA00524022 /* ViewController.swift */; };
 		21C4E6621B5554EA00524022 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21C4E6601B5554EA00524022 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2155E3FC1B559E3A00BCE403 /* Gameboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Gameboard.storyboard; sourceTree = "<group>"; };
+		2155E4011B55A28100BCE403 /* GameboardVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameboardVC.swift; sourceTree = "<group>"; };
 		21C4E6571B5554EA00524022 /* Game of Fifteen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Game of Fifteen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21C4E65B1B5554EA00524022 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21C4E65C1B5554EA00524022 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -56,6 +60,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2155E3FE1B559FF000BCE403 /* Gameboard */ = {
+			isa = PBXGroup;
+			children = (
+				2155E3FC1B559E3A00BCE403 /* Gameboard.storyboard */,
+				2155E4011B55A28100BCE403 /* GameboardVC.swift */,
+			);
+			name = Gameboard;
+			sourceTree = "<group>";
+		};
 		21C4E64E1B5554EA00524022 = {
 			isa = PBXGroup;
 			children = (
@@ -82,6 +95,7 @@
 				21C4E6601B5554EA00524022 /* Main.storyboard */,
 				21C4E6631B5554EA00524022 /* Images.xcassets */,
 				21C4E6651B5554EA00524022 /* LaunchScreen.xib */,
+				2155E3FE1B559FF000BCE403 /* Gameboard */,
 				21C4E65A1B5554EA00524022 /* Supporting Files */,
 			);
 			path = "Game of Fifteen";
@@ -193,6 +207,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21C4E6621B5554EA00524022 /* Main.storyboard in Resources */,
+				2155E3FD1B559E3A00BCE403 /* Gameboard.storyboard in Resources */,
 				21C4E6671B5554EA00524022 /* LaunchScreen.xib in Resources */,
 				21C4E6641B5554EA00524022 /* Images.xcassets in Resources */,
 			);
@@ -214,6 +229,7 @@
 			files = (
 				21C4E65F1B5554EA00524022 /* ViewController.swift in Sources */,
 				21C4E65D1B5554EA00524022 /* AppDelegate.swift in Sources */,
+				2155E4021B55A28100BCE403 /* GameboardVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +425,7 @@
 				21C4E6781B5554EA00524022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21C4E6791B5554EA00524022 /* Build configuration list for PBXNativeTarget "Game of FifteenTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +434,7 @@
 				21C4E67B1B5554EA00524022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
