@@ -9,22 +9,6 @@
 /* Begin PBXBuildFile section */
 		2155E3FD1B559E3A00BCE403 /* Gameboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2155E3FC1B559E3A00BCE403 /* Gameboard.storyboard */; };
 		2155E4021B55A28100BCE403 /* GameboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2155E4011B55A28100BCE403 /* GameboardVC.swift */; };
-		2155E4131B55C34100BCE403 /* Dan00.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4031B55C34100BCE403 /* Dan00.jpeg */; };
-		2155E4141B55C34100BCE403 /* Dan01.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4041B55C34100BCE403 /* Dan01.jpeg */; };
-		2155E4151B55C34100BCE403 /* Dan02.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4051B55C34100BCE403 /* Dan02.jpeg */; };
-		2155E4161B55C34100BCE403 /* Dan03.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4061B55C34100BCE403 /* Dan03.jpeg */; };
-		2155E4171B55C34100BCE403 /* Dan04.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4071B55C34100BCE403 /* Dan04.jpeg */; };
-		2155E4181B55C34100BCE403 /* Dan05.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4081B55C34100BCE403 /* Dan05.jpeg */; };
-		2155E4191B55C34100BCE403 /* Dan06.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4091B55C34100BCE403 /* Dan06.jpeg */; };
-		2155E41A1B55C34100BCE403 /* Dan07.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40A1B55C34100BCE403 /* Dan07.jpeg */; };
-		2155E41B1B55C34100BCE403 /* Dan08.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40B1B55C34100BCE403 /* Dan08.jpeg */; };
-		2155E41C1B55C34100BCE403 /* Dan09.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40C1B55C34100BCE403 /* Dan09.jpeg */; };
-		2155E41D1B55C34100BCE403 /* Dan010.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40D1B55C34100BCE403 /* Dan010.jpeg */; };
-		2155E41E1B55C34100BCE403 /* Dan011.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40E1B55C34100BCE403 /* Dan011.jpeg */; };
-		2155E41F1B55C34100BCE403 /* Dan012.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E40F1B55C34100BCE403 /* Dan012.jpeg */; };
-		2155E4201B55C34100BCE403 /* Dan013.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4101B55C34100BCE403 /* Dan013.jpeg */; };
-		2155E4211B55C34100BCE403 /* Dan014.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4111B55C34100BCE403 /* Dan014.jpeg */; };
-		2155E4221B55C34100BCE403 /* Dan015.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2155E4121B55C34100BCE403 /* Dan015.jpeg */; };
 		21C4E65D1B5554EA00524022 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4E65C1B5554EA00524022 /* AppDelegate.swift */; };
 		21C4E65F1B5554EA00524022 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21C4E65E1B5554EA00524022 /* ViewController.swift */; };
 		21C4E6621B5554EA00524022 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21C4E6601B5554EA00524022 /* Main.storyboard */; };
@@ -46,22 +30,6 @@
 /* Begin PBXFileReference section */
 		2155E3FC1B559E3A00BCE403 /* Gameboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Gameboard.storyboard; sourceTree = "<group>"; };
 		2155E4011B55A28100BCE403 /* GameboardVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameboardVC.swift; sourceTree = "<group>"; };
-		2155E4031B55C34100BCE403 /* Dan00.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan00.jpeg; path = "../../Test Image/Dan00.jpeg"; sourceTree = "<group>"; };
-		2155E4041B55C34100BCE403 /* Dan01.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan01.jpeg; path = "../../Test Image/Dan01.jpeg"; sourceTree = "<group>"; };
-		2155E4051B55C34100BCE403 /* Dan02.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan02.jpeg; path = "../../Test Image/Dan02.jpeg"; sourceTree = "<group>"; };
-		2155E4061B55C34100BCE403 /* Dan03.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan03.jpeg; path = "../../Test Image/Dan03.jpeg"; sourceTree = "<group>"; };
-		2155E4071B55C34100BCE403 /* Dan04.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan04.jpeg; path = "../../Test Image/Dan04.jpeg"; sourceTree = "<group>"; };
-		2155E4081B55C34100BCE403 /* Dan05.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan05.jpeg; path = "../../Test Image/Dan05.jpeg"; sourceTree = "<group>"; };
-		2155E4091B55C34100BCE403 /* Dan06.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan06.jpeg; path = "../../Test Image/Dan06.jpeg"; sourceTree = "<group>"; };
-		2155E40A1B55C34100BCE403 /* Dan07.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan07.jpeg; path = "../../Test Image/Dan07.jpeg"; sourceTree = "<group>"; };
-		2155E40B1B55C34100BCE403 /* Dan08.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan08.jpeg; path = "../../Test Image/Dan08.jpeg"; sourceTree = "<group>"; };
-		2155E40C1B55C34100BCE403 /* Dan09.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan09.jpeg; path = "../../Test Image/Dan09.jpeg"; sourceTree = "<group>"; };
-		2155E40D1B55C34100BCE403 /* Dan010.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan010.jpeg; path = "../../Test Image/Dan010.jpeg"; sourceTree = "<group>"; };
-		2155E40E1B55C34100BCE403 /* Dan011.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan011.jpeg; path = "../../Test Image/Dan011.jpeg"; sourceTree = "<group>"; };
-		2155E40F1B55C34100BCE403 /* Dan012.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan012.jpeg; path = "../../Test Image/Dan012.jpeg"; sourceTree = "<group>"; };
-		2155E4101B55C34100BCE403 /* Dan013.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan013.jpeg; path = "../../Test Image/Dan013.jpeg"; sourceTree = "<group>"; };
-		2155E4111B55C34100BCE403 /* Dan014.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan014.jpeg; path = "../../Test Image/Dan014.jpeg"; sourceTree = "<group>"; };
-		2155E4121B55C34100BCE403 /* Dan015.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Dan015.jpeg; path = "../../Test Image/Dan015.jpeg"; sourceTree = "<group>"; };
 		21C4E6571B5554EA00524022 /* Game of Fifteen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Game of Fifteen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21C4E65B1B5554EA00524022 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21C4E65C1B5554EA00524022 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -122,22 +90,6 @@
 		21C4E6591B5554EA00524022 /* Game of Fifteen */ = {
 			isa = PBXGroup;
 			children = (
-				2155E4031B55C34100BCE403 /* Dan00.jpeg */,
-				2155E4041B55C34100BCE403 /* Dan01.jpeg */,
-				2155E4051B55C34100BCE403 /* Dan02.jpeg */,
-				2155E4061B55C34100BCE403 /* Dan03.jpeg */,
-				2155E4071B55C34100BCE403 /* Dan04.jpeg */,
-				2155E4081B55C34100BCE403 /* Dan05.jpeg */,
-				2155E4091B55C34100BCE403 /* Dan06.jpeg */,
-				2155E40A1B55C34100BCE403 /* Dan07.jpeg */,
-				2155E40B1B55C34100BCE403 /* Dan08.jpeg */,
-				2155E40C1B55C34100BCE403 /* Dan09.jpeg */,
-				2155E40D1B55C34100BCE403 /* Dan010.jpeg */,
-				2155E40E1B55C34100BCE403 /* Dan011.jpeg */,
-				2155E40F1B55C34100BCE403 /* Dan012.jpeg */,
-				2155E4101B55C34100BCE403 /* Dan013.jpeg */,
-				2155E4111B55C34100BCE403 /* Dan014.jpeg */,
-				2155E4121B55C34100BCE403 /* Dan015.jpeg */,
 				21C4E65C1B5554EA00524022 /* AppDelegate.swift */,
 				21C4E65E1B5554EA00524022 /* ViewController.swift */,
 				21C4E6601B5554EA00524022 /* Main.storyboard */,
@@ -254,25 +206,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2155E41C1B55C34100BCE403 /* Dan09.jpeg in Resources */,
-				2155E41A1B55C34100BCE403 /* Dan07.jpeg in Resources */,
-				2155E4211B55C34100BCE403 /* Dan014.jpeg in Resources */,
-				2155E41D1B55C34100BCE403 /* Dan010.jpeg in Resources */,
-				2155E4191B55C34100BCE403 /* Dan06.jpeg in Resources */,
-				2155E41E1B55C34100BCE403 /* Dan011.jpeg in Resources */,
-				2155E4171B55C34100BCE403 /* Dan04.jpeg in Resources */,
-				2155E4151B55C34100BCE403 /* Dan02.jpeg in Resources */,
-				2155E4181B55C34100BCE403 /* Dan05.jpeg in Resources */,
-				2155E4201B55C34100BCE403 /* Dan013.jpeg in Resources */,
-				2155E4141B55C34100BCE403 /* Dan01.jpeg in Resources */,
 				21C4E6621B5554EA00524022 /* Main.storyboard in Resources */,
-				2155E4221B55C34100BCE403 /* Dan015.jpeg in Resources */,
 				2155E3FD1B559E3A00BCE403 /* Gameboard.storyboard in Resources */,
-				2155E41F1B55C34100BCE403 /* Dan012.jpeg in Resources */,
-				2155E4161B55C34100BCE403 /* Dan03.jpeg in Resources */,
-				2155E4131B55C34100BCE403 /* Dan00.jpeg in Resources */,
 				21C4E6671B5554EA00524022 /* LaunchScreen.xib in Resources */,
-				2155E41B1B55C34100BCE403 /* Dan08.jpeg in Resources */,
 				21C4E6641B5554EA00524022 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
