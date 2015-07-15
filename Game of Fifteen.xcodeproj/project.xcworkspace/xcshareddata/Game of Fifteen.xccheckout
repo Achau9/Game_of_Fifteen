@@ -12,8 +12,6 @@
 	<dict>
 		<key>1D634169324D0BA47C87566BE5638274DFBD9338</key>
 		<string>https://github.com/Achau9/Game_of_Fifteen.git</string>
-		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
-		<string>https://github.com/Achau9/Game_of_Fifteen.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Game of Fifteen.xcodeproj</string>
@@ -21,8 +19,6 @@
 	<dict>
 		<key>1D634169324D0BA47C87566BE5638274DFBD9338</key>
 		<string>../..</string>
-		<key>74520A40BD81CDE856F210101CCCA1022EEE7A11</key>
-		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Achau9/Game_of_Fifteen.git</string>
@@ -36,17 +32,9 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>74520A40BD81CDE856F210101CCCA1022EEE7A11</string>
-			<key>IDESourceControlWCCName</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>1D634169324D0BA47C87566BE5638274DFBD9338</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Game%20of%20Fifteen</string>
+			<string>Game_of_Fifteen</string>
 		</dict>
 	</array>
 </dict>
